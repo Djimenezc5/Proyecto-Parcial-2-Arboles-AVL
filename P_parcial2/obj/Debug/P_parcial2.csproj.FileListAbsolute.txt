@@ -1,0 +1,9 @@
+E:\Proyectos\C#\P_parcial2\P_parcial2\bin\Debug\P_parcial2.exe.config
+E:\Proyectos\C#\P_parcial2\P_parcial2\bin\Debug\P_parcial2.exe
+E:\Proyectos\C#\P_parcial2\P_parcial2\bin\Debug\P_parcial2.pdb
+E:\Proyectos\C#\P_parcial2\P_parcial2\obj\Debug\P_parcial2.csprojAssemblyReference.cache
+E:\Proyectos\C#\P_parcial2\P_parcial2\obj\Debug\P_parcial2.Form1.resources
+E:\Proyectos\C#\P_parcial2\P_parcial2\obj\Debug\P_parcial2.Properties.Resources.resources
+E:\Proyectos\C#\P_parcial2\P_parcial2\obj\Debug\P_parcial2.csproj.GenerateResource.cache
+E:\Proyectos\C#\P_parcial2\P_parcial2\obj\Debug\P_parcial2.exe
+E:\Proyectos\C#\P_parcial2\P_parcial2\obj\Debug\P_parcial2.pdb
